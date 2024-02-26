@@ -42,7 +42,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/better-stack-dark.png"
+                src="/assets/images/sweets.png"
                 alt="Better Stack"
                 width={260}
                 height={224}
