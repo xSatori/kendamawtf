@@ -17,7 +17,7 @@ const Sponsors = () => (
             >
               <Image
                 src="/assets/images/SKF.png"
-                alt="Sentry"
+                alt="Sweets Kendamas Foundation"
                 width={260}
                 height={224}
               />
@@ -43,7 +43,7 @@ const Sponsors = () => (
             >
               <Image
                 src="/assets/images/sweets.png"
-                alt="Better Stack"
+                alt="Sweets Kendamas"
                 width={260}
                 height={224}
               />
