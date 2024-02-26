@@ -12,12 +12,12 @@ const Sponsors = () => (
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://sweetskendamas.wtf"
+              href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
               target="_blank"
             >
               <Image
                 src="/assets/images/sentry-dark.png"
-                alt="Sweets Kendamas"
+                alt="Sentry"
                 width={260}
                 height={224}
               />
@@ -30,7 +30,7 @@ const Sponsors = () => (
             >
               <Image
                 src="/assets/images/nouns.jpg"
-                alt="Nouns DAO"
+                alt="Nouns"
                 width={260}
                 height={224}
               />
