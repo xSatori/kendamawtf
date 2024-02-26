@@ -29,7 +29,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/sentry-dark.png"
+                src="/assets/images/noggles.png"
                 alt="Sentry"
                 width={260}
                 height={224}
