@@ -30,7 +30,7 @@ const Sponsors = () => (
             >
               <Image
                 src="/assets/images/noggles.png"
-                alt="Sentry"
+                alt="Nouns"
                 width={260}
                 height={224}
               />
