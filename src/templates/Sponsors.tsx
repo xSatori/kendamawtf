@@ -25,7 +25,7 @@ const Sponsors = () => (
           </td>
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
+              href="https://nouns.wtf"
               target="_blank"
             >
               <Image
