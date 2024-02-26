@@ -29,7 +29,7 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/nouns.jpg"
+                src="/assets/images/nouns.png"
                 alt="Nouns"
                 width={260}
                 height={224}
