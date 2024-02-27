@@ -35,8 +35,8 @@ const Hero = () => (
         }
         description="Congratulations on your first spike!"
         button={
-          <Link href="https://poap.website/kendamawtf">
-            <Button xl>Learn more tricks</Button>
+          <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
+            <Button xl>Keep learning here</Button>
           </Link>
         }
       />
