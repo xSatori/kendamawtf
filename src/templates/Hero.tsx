@@ -28,6 +28,7 @@ const Hero = () => (
     <Section yPadding="pt-5 pb-5" className="flex justify-center">
       <img
         src="/assets/images/logo.png"
+        alt="kendama.wtf"
         className="w-24 h-24 mx-auto"
       />
     </Section>
