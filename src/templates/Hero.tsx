@@ -33,11 +33,6 @@ const Hero = () => (
           </>
         }
         description="Congratulations on your first spike!"
-        {/* button={
-          <Link href="https://poap.website/kendamawtf">
-            <Button xl>Claim your POAP</Button>
-          </Link>
-        */}
         }
       />
     </Section>
