@@ -21,10 +21,7 @@ const Sponsors = () => (
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="/"
-              target="_blank"
-            >
+            <a href="/" target="_blank">
               <Image
                 src="/assets/images/noggles.png"
                 alt="Nouns"
@@ -34,10 +31,7 @@ const Sponsors = () => (
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="/"
-              target="_blank"
-            >
+            <a href="/" target="_blank">
               <Image
                 src="/assets/images/sweets.png"
                 alt="Sweets Kendamas"
