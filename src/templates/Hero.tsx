@@ -36,7 +36,7 @@ const Hero = () => (
         description="Congratulations on your first spike!"
         button={
           <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
-            <Button l>Keep learning here</Button>
+            <Button xl>Keep learning here</Button>
           </Link>
         }
       />
