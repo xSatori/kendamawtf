@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="/">
-            Home
+          Home
           </Link>
         </li>
         <li>
