@@ -21,10 +21,7 @@ const Sponsors = () => (
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
-              target="_blank"
-            >
+            <a href="https://nouns.wtf" target="_blank">
               <Image
                 src="/assets/images/noggles.png"
                 alt="Nouns"
@@ -34,10 +31,7 @@ const Sponsors = () => (
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://betterstack.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
-              target="_blank"
-            >
+            <a href="https://sweetskendamas.com" target="_blank">
               <Image
                 src="/assets/images/sweets.png"
                 alt="Sweets Kendamas"
