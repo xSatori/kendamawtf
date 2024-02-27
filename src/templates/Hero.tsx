@@ -1,5 +1,5 @@
-import React from 'react';
 import Link from 'next/link';
+import React from 'react';
 
 // import { Button } from '@/button/Button';
 import { Background } from '../background/Background';
@@ -26,9 +26,11 @@ const Hero = () => (
     </Section>
 */}
     <Section yPadding="pt-20 pb-32">
-      <div className="flex justify-center">
-        <img src="/images/your-image.jpg" alt="Descriptive Alt Text" />
-      </div>
+      <img
+        src="/images/your-image.jpg"
+        alt="Descriptive Alt Text"
+        className="w-48 h-48" // This sets the width and height to 12rem (192px) each
+      />
     </Section>
     <Section yPadding="pt-20 pb-32">
       <HeroOneButton
