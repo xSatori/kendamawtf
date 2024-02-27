@@ -17,7 +17,7 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-          <Link href="/resources">Resources</Link>
+          <Link href="/">Resources</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
