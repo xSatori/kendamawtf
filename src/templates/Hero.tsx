@@ -25,7 +25,7 @@ const Hero = () => (
       </NavbarTwoColumns>
     </Section>
 */}
-    <Section yPadding="pt-10 pb-16" className="flex justify-center">
+    <Section yPadding="pt-5 pb-5" className="flex justify-center">
       <img
         src="/assets/images/logo.png"
         className="w-24 h-24 mx-auto"

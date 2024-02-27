@@ -4,6 +4,7 @@ type ISectionProps = {
   title?: string;
   description?: string;
   yPadding?: string;
+  className?: string;
   children: ReactNode;
 };
 
