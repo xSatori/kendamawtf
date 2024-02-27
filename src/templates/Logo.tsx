@@ -6,7 +6,7 @@ type ILogoProps = {
 
 const Logo = (props: ILogoProps) => {
   // Apply conditional classes for size. Adjust these classes based on your preference.
-  const imageSizeClass = props.xl ? 'w-33 h-33' : 'w-24 h-24'; // Example sizes, adjust as needed
+  const imageSizeClass = props.xl ? 'w-22 h-22' : 'w-16 h-16'; // Example sizes, adjust as needed
   const textStyleClass = props.xl ? 'text-3xl' : 'text-xl';
   const fontWeightClass = 'font-semibold';
 
