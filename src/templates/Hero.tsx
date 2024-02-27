@@ -10,7 +10,7 @@ import { Logo } from './Logo';
 const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
-      <NavbarTwoColumns logo={<Logo xl />}>
+      {/* <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="/">Home</Link>
         </li>
@@ -20,6 +20,7 @@ const Hero = () => (
           </Link>
         </li>
       </NavbarTwoColumns>
+      */}
     </Section>
 
     <Section yPadding="pt-20 pb-32">
