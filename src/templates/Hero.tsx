@@ -32,7 +32,7 @@ const Hero = () => (
         className="w-24 h-24 mx-auto"
       />
     </Section>
-    <Section yPadding="pt-10 pb-32">
+    <Section yPadding="pt-5 pb-24">
       <HeroOneButton
         title={
           <>
