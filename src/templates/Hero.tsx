@@ -27,7 +27,7 @@ const Hero = () => (
         title={
           <>
             {'Welcome to the analog game for\n'}
-            <span className="text-primary-500">the digital era.</span>
+            <span className="text-primary-#22c55e">the digital era.</span>
           </>
         }
         description="Congratulations on your first spike!"
