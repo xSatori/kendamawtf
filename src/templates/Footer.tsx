@@ -32,7 +32,7 @@ const Footer = () => (
           </>
         }
       >
-{/*        <li>
+        <li>
           <Link href="/">Sweets Kendamas Foundation</Link>
         </li>
         <li>
@@ -41,7 +41,6 @@ const Footer = () => (
         <li>
           <Link href="/">Sweets Kendamas</Link>
         </li>
-      */}
       </CenteredFooter>
     </Section>
   </Background>
