@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-import { Button } from '@/button/Button';
+// import { Button } from '@/button/Button';
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
