@@ -6,7 +6,9 @@ const VerticalFeatures = () => (
     <LayoutSection
       title="What exactly is kendama?"
       description="Welcome to the enchanting world of kendama, a traditional Japanese skill toy that has captivated hearts worldwide. Kendama consists of a handle (ken), two cups (sara), and a ball (tama) connected by a string. This simple yet profound toy offers endless possibilities for tricks, creativity, and skill development. Originating from Japan, kendama has a rich history and has evolved into a global community of enthusiasts. Discover the joy and benefits of kendama, from improving hand-eye coordination to fostering a sense of community."
-    />
+    >
+      {/* Add your child components or elements here */}
+    </LayoutSection>
     <VerticalFeatureRow
       title="Mindfulness Through Play"
       description="The 'Mindfulness Through Play' program by the Sweets Kendamas Foundation merges fun with mental well-being, using kendama to promote mindfulness and concentration. Participants engage in kendama's focused activity, finding a unique way to achieve a peaceful state of mind. This initiative not only enhances physical skills but also underscores mental health benefits, offering a novel approach to mindfulness. Through various activities, it encourages living in the moment, stress reduction, and joy in play."
@@ -26,7 +28,7 @@ const VerticalFeatures = () => (
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
-  </Section>
+  </>
 );
 
 export { VerticalFeatures };
