@@ -13,11 +13,11 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            GitHub
+            Home
           </Link>
         </li>
         <li>
-          <Link href="/">Sign in</Link>
+          <Link href="/">Resources</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
