@@ -15,7 +15,7 @@ const Logo = (props: ILogoProps) => {
       className={`inline-flex items-center text-gray-900 ${fontWeightClass} ${textStyleClass}`}
     >
       <img
-        src="/public/assets/images/logo.png" // Adjust the path as necessary
+        src="/assets/images/logo.png" // Adjust the path as necessary
         alt="Logo"
         className={`mr-1 ${imageSizeClass}`} // Controls the size of the image
       />
