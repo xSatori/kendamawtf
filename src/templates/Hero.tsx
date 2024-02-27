@@ -12,12 +12,12 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+          <Link href="/">
             Home
           </Link>
         </li>
         <li>
-          <Link href="/">Resources</Link>
+          <Link href="/resources">Resources</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
