@@ -29,7 +29,7 @@ const Hero = () => (
       <img
         src="/assets/images/logo.png"
         alt="kendama.wtf"
-        className="w-32 h-32 mx-auto"
+        className="mx-auto size-32"
       />
     </Section>
     <Section yPadding="pt-5 pb-24">
