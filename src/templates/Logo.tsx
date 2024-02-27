@@ -19,7 +19,6 @@ const Logo = (props: ILogoProps) => {
         alt="Logo"
         className={`mr-1 ${imageSizeClass}`} // Controls the size of the image
       />
-      {AppConfig.site_name}
     </div>
   );
 };
