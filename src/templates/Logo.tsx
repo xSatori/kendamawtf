@@ -11,8 +11,8 @@ const Logo = (props: ILogoProps) => {
   const fontWeightClass = 'font-semibold';
 
   return (
-    <div 
-    className={`inline-flex items-center text-gray-900 ${fontWeightClass} ${textStyleClass}`}
+    <div
+      className={`inline-flex items-center text-gray-900 ${fontWeightClass} ${textStyleClass}`}
     >
       <img
         src="/public/assets/images/logo.png" // Adjust the path as necessary
