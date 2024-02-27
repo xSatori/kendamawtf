@@ -7,10 +7,7 @@ const VerticalFeatures = () => (
       title="What is Kendama?"
       description="Welcome to the enchanting world of kendama, a traditional Japanese skill toy that has captivated hearts worldwide. Kendama consists of a handle (ken), two cups (sara), and a ball (tama) connected by a string. This simple yet profound toy offers endless possibilities for tricks, creativity, and skill development. Originating from Japan, kendama has a rich history and has evolved into a global community of enthusiasts. Discover the joy and benefits of kendama, from improving hand-eye coordination to fostering a sense of community."
     >
-      <>
-        {/* No content here means this is an empty fragment */}
-      </>
-      {/* If no children are needed, provide an empty fragment or suitable default content */}
+      {/* No content here means this is an empty fragment */}
     </LayoutSection>
     <VerticalFeatureRow
       title="Mindfulness Through Play"
