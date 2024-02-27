@@ -1,5 +1,6 @@
 // import Link from 'next/link';
 
+import { Button } from '@/button/Button';
 import { Background } from '../background/Background';
 // import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
@@ -33,6 +34,10 @@ const Hero = () => (
           </>
         }
         description="Congratulations on your first spike!"
+        button={
+          <Link href="https://poap.website/kendamawtf">
+            <Button xl>Claim your POAP</Button>
+          </Link>
         }
       />
     </Section>
