@@ -36,10 +36,10 @@ const Footer = () => (
           <Link href="/">Sweets Kendamas Foundation</Link>
         </li>
         <li>
-          <Link href="/">Sweets Kendamas</Link>
-        </li>
-        <li>
           <Link href="/">Nouns DAO</Link>
+        </li>        
+        <li>
+          <Link href="/">Sweets Kendamas</Link>
         </li>
       </CenteredFooter>
     </Section>
