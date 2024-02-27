@@ -2,8 +2,8 @@ import { AppConfig } from '../utils/AppConfig';
 
 const FooterCopyright = () => (
   <div className="footer-copyright">
-    A <a href="https://sweetskendamas.com/">Sweets</a> x {' '}
-    <a href="https://nouns.wtf/">Nouns</a> thing.
+    A Sweets x {' '}
+    <a href="https://nouns.wtf">Nouns</a> thing.
     <style jsx>
       {`
         .footer-copyright :global(a) {
