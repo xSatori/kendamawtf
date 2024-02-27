@@ -25,11 +25,11 @@ const Hero = () => (
       </NavbarTwoColumns>
     </Section>
 */}
-    <Section yPadding="pt-20 pb-32">
+    <Section yPadding="pt-10 pb-16">
       <img
-        src="/images/your-image.jpg"
+        src="/assets/images/logo.jpg"
         alt="Descriptive Alt Text"
-        className="w-48 h-48" // This sets the width and height to 12rem (192px) each
+        className="w-24 h-24" // This sets the width and height to 12rem (192px) each
       />
     </Section>
     <Section yPadding="pt-20 pb-32">
