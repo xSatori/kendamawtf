@@ -29,8 +29,13 @@ const VerticalFeatureRow = (props: IVerticalFeatureRowProps) => {
         <div className="mt-6 text-xl leading-9">{props.description}</div>
       </div>
 
-      <div className="w-full p-6 sm:w-1/2">
-        <img src={`${router.basePath}${props.image}`} alt={props.imageAlt} />
+      {/* Adjust this div to include flexbox properties for centering */}
+      <div className="flex w-full items-center justify-center p-6 sm:w-1/2">
+        <img
+          src={`${router.basePath}${props.image}`}
+          alt={props.imageAlt}
+          style={{ maxWidth: '100%', height: 'auto' }}
+        />
       </div>
     </div>
   );
