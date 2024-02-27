@@ -27,8 +27,7 @@ const Hero = () => (
 */}
     <Section yPadding="pt-10 pb-16">
       <img
-        src="/assets/images/logo.jpg"
-        alt="Descriptive Alt Text"
+        src="/assets/images/logo.png"
         className="w-24 h-24" // This sets the width and height to 12rem (192px) each
       />
     </Section>
