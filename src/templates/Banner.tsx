@@ -7,11 +7,11 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Check out Sweet Kendamas tutorial library on YouTube."
-      subtitle="Start learning today."
+      title="Check out Sweet Kendamas Foundation on YouTube."
+      subtitle="Get inspired today."
       button={
-        <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
-          <Button>Get Started</Button>
+        <Link href="https://www.youtube.com/@sweetskendamasfoundation">
+          <Button>SKF YouTube</Button>
         </Link>
       }
     />
