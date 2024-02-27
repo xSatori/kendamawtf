@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from 'next/link';
 
 // import { Button } from '@/button/Button';
@@ -24,7 +25,11 @@ const Hero = () => (
       </NavbarTwoColumns>
     </Section>
 */}
-
+    <Section yPadding="pt-20 pb-32">
+      <div className="flex justify-center">
+        <img src="/images/your-image.jpg" alt="Descriptive Alt Text" />
+      </div>
+    </Section>
     <Section yPadding="pt-20 pb-32">
       <HeroOneButton
         title={
