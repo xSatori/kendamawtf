@@ -3,6 +3,18 @@ import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 
 const VerticalFeatures = () => (
   <>
+    <div className="flex justify-center items-center space-x-4 my-8"> 
+      <img
+        src="/assets/images/whatiskendama1.png"
+        alt="What is Kendama? 1"
+        className="w-1/2" // Adjust width as necessary
+      />
+      <img
+        src="/assets/images/whatiskendama2.png"
+        alt="What is Kendama? 2"
+        className="w-1/2"
+      />
+    </div>
     <VerticalFeatureRow
       title="Mindfulness Through Play"
       description="The 'Mindfulness Through Play' program by the Sweets Kendamas Foundation merges fun with mental well-being, using kendama to promote mindfulness and concentration. Participants engage in kendama's focused activity, finding a unique way to achieve a peaceful state of mind. This initiative not only enhances physical skills but also underscores mental health benefits, offering a novel approach to mindfulness. Through various activities, it encourages living in the moment, stress reduction, and joy in play."
