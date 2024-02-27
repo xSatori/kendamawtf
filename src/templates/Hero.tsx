@@ -33,7 +33,7 @@ const Hero = () => (
         description="Congratulations on your first spike!"
         button={
           <Link href="https://creativedesignsguru.com/category/nextjs/">
-            <Button xl>Download Your Free Theme</Button>
+            <Button xl>Claim your POAP</Button>
           </Link>
         }
       />
