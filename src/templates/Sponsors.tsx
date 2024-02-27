@@ -12,8 +12,7 @@ const Sponsors = () => (
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://sweetskendamasfoundation.org/"
-              target="_blank"
+              href="https://sweetskendamasfoundation.org/" target="_blank"
             >
               <Image
                 src="/assets/images/SKF.png"
