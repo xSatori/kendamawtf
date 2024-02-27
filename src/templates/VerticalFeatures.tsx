@@ -5,10 +5,10 @@ const VerticalFeatures = () => (
   <Section
     title="What exactly is kendama?"
     description="Welcome to the enchanting world of kendama, a traditional Japanese skill toy that has captivated hearts worldwide. Kendama consists of a handle (ken), two cups (sara), and a ball (tama) connected by a string. This simple yet profound toy offers endless possibilities for tricks, creativity, and skill development. Originating from Japan, kendama has a rich history and has evolved into a global community of enthusiasts. Discover the joy and benefits of kendama, from improving hand-eye coordination to fostering a sense of community."
-  >
+  />
     <VerticalFeatureRow
       title="Mindfulness Through Play"
-      description="The "Mindfulness Through Play" program by the Sweets Kendamas Foundation merges fun with mental well-being, using kendama to promote mindfulness and concentration. Participants engage in kendama's focused activity, finding a unique way to achieve a peaceful state of mind. This initiative not only enhances physical skills but also underscores mental health benefits, offering a novel approach to mindfulness. Through various activities, it encourages living in the moment, stress reduction, and joy in play."
+      description="The 'Mindfulness Through Play' program by the Sweets Kendamas Foundation merges fun with mental well-being, using kendama to promote mindfulness and concentration. Participants engage in kendama's focused activity, finding a unique way to achieve a peaceful state of mind. This initiative not only enhances physical skills but also underscores mental health benefits, offering a novel approach to mindfulness. Through various activities, it encourages living in the moment, stress reduction, and joy in play."
       image="/assets/images/SKF.png"
       imageAlt="Sweets Kendamas Foundation"
     />
@@ -20,8 +20,8 @@ const VerticalFeatures = () => (
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="How to Get Involved"
+      description="The kendama journey is one of personal growth, community, and fun. Whether you're new to kendama or a seasoned player, there are numerous ways to get involved. Join us at Sweets Kendamas events, support the Sweets Kendamas Foundation's initiatives, or dive into the world of Nouns DAO and discover how you can contribute to its visionary projects. Everyone is welcome in the kendama community, and we can't wait for you to be part of our story."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
