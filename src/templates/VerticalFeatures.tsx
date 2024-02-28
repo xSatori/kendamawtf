@@ -11,13 +11,13 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Mindfulness Through Play"
-      description="The 'Mindfulness Through Play' program by the Sweets Kendamas Foundation merges fun with mental well-being, using kendama to promote mindfulness and concentration. Participants engage in kendama's focused activity, finding a unique way to achieve a peaceful state of mind. This initiative not only enhances physical skills but also underscores mental health benefits, offering a novel approach to mindfulness. Through various activities, it encourages living in the moment, stress reduction, and joy in play."
+      description="Kendama offers a unique and engaging alternative for mindfulness practice by demanding complete focus and hand-eye coordination. This captivating activity not only helps to clear the mind of distractions but also fosters a meditative state through its rhythmic motions and the challenge of mastering intricate tricks, making it an excellent tool for cultivating presence and concentration. The Sweets Kendama's Foundation has embodied this aspect of kendama in their 'Mindfulness Through Play' programs, which merge fun with mental well-being. These programs not only enhance physical skills like dexterity and hand-eye coordination, but also underscore mental health benefits, offering a novel approach to mindfulness. Through various exercises, it encourages living in the moment, stress reduction, and compassionate play. Learn more about the Foundation’s programs at sweetsoendamasfoundation.org."
       image="/assets/images/SKF.png"
       imageAlt="Sweets Kendamas Foundation"
     />
     <VerticalFeatureRow
       title="Nouns DAO"
-      description="Nouns DAO is a groundbreaking decentralized autonomous organization exploring new frontiers in community engagement and project funding. While not directly related to kendama, the principles of creativity, community, and collaboration resonate with the kendama ethos. Nouns DAO's innovative approach to governance and project support offers intriguing possibilities for collaborations within the kendama community and beyond. Learn more about how Nouns DAO is shaping the future of collective action and creativity."
+      description="Nouns DAO is a groundbreaking decentralized autonomous organization exploring new frontiers in community engagement and public goods funding. While not directly related to kendama, the principles of creativity, community, and collaboration resonate with the ethos of the kendama community. Nouns DAO's innovative approach to governance, proliferation, annd public goods funding, offers intriguing possibilities for collaborations within the kendama community and beyond. Learn more about how Nouns DAO is shaping the future of collective action and creativity at nouns.wtf."
       image="/assets/images/noggles.png"
       imageAlt="Nouns DAO"
       reverse
