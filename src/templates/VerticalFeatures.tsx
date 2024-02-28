@@ -24,7 +24,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="How to Get Involved"
-      description="The kendama journey is one of personal growth, community, and fun. Whether you're new to kendama or a seasoned player, there are numerous ways to get involved. Join us at Sweets Kendamas events, support the Sweets Kendamas Foundation's initiatives, or dive into the world of Nouns DAO and discover how you can contribute to its visionary projects. Everyone is welcome in the kendama community, and we can't wait for you to be part of our story."
+      description="While very collaborative, both kendama and Nouns are ultimately a personal journey of growth. No matter what your knowledge or skill level, there is a way for you to contribute and get involved. Just get plugged into any of these communities and start asking questions! We can't wait for you to be part of our story."
       image="/assets/images/poap.gif"
       imageAlt="POAP Token"
     />
