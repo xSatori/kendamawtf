@@ -40,11 +40,19 @@ const Hero = () => (
             <span className="text-lime-500">the digital era.</span>
           </>
         }
-        description="Congratulations on your first spike!"
+        description="Never be bored again!"
         button={
-          <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
-            <Button xl>Keep learning here</Button>
-          </Link>
+          <div className="flex space-x-4">
+            <Link href="/new-button-link">
+              <Button xl>Mindfulness Through Play</Button>
+            </Link>
+            <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
+              <Button xl>Tutorials</Button>
+            </Link>
+            <Link href="https://nounish.com">
+              <Button xl>Nouns DAO</Button>
+            </Link>
+          </div>
         }
       />
     </Section>
