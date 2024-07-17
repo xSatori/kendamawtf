@@ -11,7 +11,7 @@ import { Section } from '../layout/Section';
 // import { Logo } from './Logo';
 
 const Hero = () => (
-  <Background color="231f20">
+  <Background color="#231f20">
     {/* <Section yPadding="py-6">
        <NavbarTwoColumns logo={<Logo xl />}>
         <li>
