@@ -42,12 +42,12 @@ const Hero = () => (
         }
         description="Never be bored again!"
         button={
-          <div className="flex space-x-4 justify-center">
-            <Link href="https://www.youtube.com/watch?v=WgYdv7unlQs">
-              <Button xl>Mindfulness Through Play</Button>
-            </Link>
+          <div className="flex flex-col sm:flex-row space-x-0 sm:space-x-4 space-y-4 sm:space-y-0 justify-center">
             <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
               <Button xl>Tutorials</Button>
+            </Link>
+            <Link href="https://www.youtube.com/watch?v=WgYdv7unlQs">
+              <Button xl>Mindfulness Through Play</Button>
             </Link>
             <Link href="https://nounish.com">
               <Button xl>Nouns DAO</Button>
