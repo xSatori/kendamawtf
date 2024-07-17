@@ -42,8 +42,8 @@ const Hero = () => (
         }
         description="Never be bored again!"
         button={
-          <div className="flex space-x-4">
-            <Link href="/new-button-link">
+          <div className="flex space-x-4 justify-center">
+            <Link href="https://www.youtube.com/watch?v=WgYdv7unlQs">
               <Button xl>Mindfulness Through Play</Button>
             </Link>
             <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
