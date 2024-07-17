@@ -40,7 +40,7 @@ const Hero = () => (
             <span className="text-lime-500">the digital era.</span>
           </>
         }
-        description="Never be bored again!"
+        /* description="Never be bored again!" */
         button={
           <div className="flex flex-col sm:flex-row space-x-0 sm:space-x-4 space-y-4 sm:space-y-0 justify-center">
             <Link href="https://youtube.com/playlist?list=PL4LQTX97wWcQYeFGV-4D0QBysJ1t4H0VL&si=hCvKMfV9tyfkA5BP">
